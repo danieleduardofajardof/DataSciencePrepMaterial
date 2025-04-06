@@ -2,13 +2,13 @@
 This repo contains preparation material for a data science interview. This comprehensive guide is divided into sections: linear algebra, Probability and Statistics, Data Analysis, Dataset preparation and Annotation, Machine Learning, Deep Learning, Emerging AI, ML Systems Design, CI/CD for MLOps, Cloud Computing, and Container Orchestration. 
 
 ---
-1. Linear algebra
+## 1. Linear algebra:
 Vectors and matrices operations, eigenvalues and eigenvectors, Matrix decompositions
 ---
-2. Probability theory
+## 2. Probability theory:
 Basic probability concepts: random variables and distributions, probability rules (addition, multiplication, complement), independence, expected values, and variance. Conditional probability. Bayes’ Theorem. Hypothesis testing
 ---
-3. Data Analysis
+## 3. Data Analysis:
 Data cleaning and handling missing values
 Numeric and categorical missing value processing
 Outlier detection techniques
@@ -29,7 +29,7 @@ Model monitoring
 Concept drift detection
 Data drift detection
 ---
-4. Dataset Preparation and Annotation
+## 4. Dataset Preparation and Annotation:
 Dataset annotation
 Handling imbalanced datasets
 Under-sampling techniques
@@ -38,7 +38,7 @@ Dataset splitting techniques
 Train-validation-test split
 Cross-validation
 ---
-5. Machine Learning
+## 5. Machine Learning:
 Supervised Learning Algorithms
 Linear vs. Logistic Regression: Usage and limitations
 Tree-based methods
@@ -57,7 +57,7 @@ Optimization Techniques
 Gradient Descent: Explanation and working principle
 Stochastic Gradient Descent
 ---
-6. Applied Machine Learning
+## 6. Applied Machine Learning:
 Structured (Tabular) Data Analysis
 Predictive Analytics
 Anomaly Detection
@@ -83,7 +83,7 @@ Markov Decision Process
 Q-Learning
 Reward and Policy Optimization
 ---
-7. Deep Learning
+## 7. Deep Learning:
 Multi-Layer Perceptron (MLP)
 Perceptron
 Activation Functions (ReLU, Softmax)
@@ -94,13 +94,13 @@ Structure and Layer Types
 Recurrent Neural Networks (RNNs)
 LSTM, GANs: Structure and Use Cases
 ---
-8. Emerging AI Technologies
+## 8. Emerging AI Technologies:
 Transformer-Based Models
 BERT (Bidirectional Encoder Representations from Transformers)
 GPT (Generative Pre-trained Transformer)
 Generative Autoencoders for Image Generation
 ---
-9. Machine Learning System Design
+## 9. Machine Learning System Design:
 CRISP-DM Framework
 Business understanding
 Data understanding
@@ -109,18 +109,18 @@ Modeling
 Validation
 Deployment
 ---
-10. CI/CD for MLOps
+## 10. CI/CD for MLOps:
 Continuous Integration (CI) and Continuous Deployment (CD) pipelines for Machine Learning
 ---
-11. Cloud Computing applied exercises
+## 11. Cloud Computing applied exercises:
 Google Cloud Platform (GCP)
 GCP Infrastructure
 GCP Machine Learning tools
 GCP Data processing and analysis tools
 ---
-12. Microservices & Web APIs
+## 12. Microservices & Web APIs:
 Design and development of microservices architectures
 Implementation and management of Web APIs
 ---
-13. Container Orchestration
+## 13. Container Orchestration:
 Deployment and management of containerized applications
