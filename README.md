@@ -6,7 +6,7 @@ This repo contains preparation material for a data science interview. This compr
 Vectors and matrices operations, eigenvalues and eigenvectors, Matrix decompositions
 ---
 2. Probability theory
-Basic probability concepts: random variables and distributions, probability rules (addition, multiplication, complement), independence, expected values, variance. Conditional probability. Bayes’ Theorem. Hypothesis testing
+Basic probability concepts: random variables and distributions, probability rules (addition, multiplication, complement), independence, expected values, and variance. Conditional probability. Bayes’ Theorem. Hypothesis testing
 ---
 3. Data Analysis
 Data cleaning and handling missing values
@@ -46,7 +46,7 @@ Ensemble techniques: Bagging and Boosting
 Unsupervised Learning Algorithms
 Clustering: Hierarchical, K-Means, Density-based
 Dimensionality Reduction: PCA, SVD
-Evaluation Metrcs
+Evaluation Metrics
 Classification Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC, AUC
 Regression Metrics: MAE, MAPE, R², Adjusted R²
 Hyperparameter Optimization
@@ -113,14 +113,14 @@ Deployment
 Continuous Integration (CI) and Continuous Deployment (CD) pipelines for Machine Learning
 ---
 11. Cloud Computing applied exercises
-
 Google Cloud Platform (GCP)
 GCP Infrastructure
 GCP Machine Learning tools
 GCP Data processing and analysis tools
-4. Microservices & Web APIs
+---
+12. Microservices & Web APIs
 Design and development of microservices architectures
 Implementation and management of Web APIs
-
-5. Container Orchestration
+---
+13. Container Orchestration
 Deployment and management of containerized applications
